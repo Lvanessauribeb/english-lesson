@@ -22,3 +22,6 @@ Ejemplo:
  - 10.- My classmates and I didn´t show yo today and ____ cellphones were off
  - 11. ____ dad is so funny, he is just like you.
  - 12. Did you know cats recognize____ own names?
+
+### modify xavier
+- 7.- I love my sister, `She` Is Andrea 

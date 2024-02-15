@@ -24,4 +24,4 @@ Ejemplo:
  - 12. Did you know cats recognize____ own names?
 
 ### modify xavier
-- 7.- I love my sister, `She` Is Andrea 
+- 7.- I love my sister, `She` Is Andrea --- Verify

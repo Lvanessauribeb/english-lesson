@@ -1,13 +1,13 @@
 # english-lesson
 Activity: 
-1. My sister ___IS_____ beautiful
-2. My brother and I ____are in the basketball team 
-3. My cat ____IS_____ in the garden
-4. My friends ___ARE_____in the party 
-5. My teacher ____IS_____ very intelligent
-6. Thalía __IS___ a famous Mexican singer
-7. Hugo and Paco ___ARE___ brothers 
-8. The restaurant ____IS______closed
+- 1. My sister ___IS_____ beautiful
+- 2. My brother and I ____are in the basketball team 
+- 3. My cat ____IS_____ in the garden
+- 4. My friends ___ARE_____in the party 
+- 5. My teacher ____IS_____ very intelligent
+- 6. Thalía __IS___ a famous Mexican singer
+- 7. Hugo and Paco ___ARE___ brothers 
+- 8. The restaurant ____IS______closed
 
 Excepción: Usamos ARE para referirnos a 3cera persona en plural.
 Presentations. 

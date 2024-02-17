@@ -140,3 +140,60 @@ Presente simple - Verb DO
 
 DO: I, you, we, they
 DOES: She, he it. 
+
+
+# PREPOSITIONS
+
+Las preposiciones pueden ser traducidas de manera distinta según la situación o el contexto de su uso.
+
+## Nota: Las preposiciones siempre van seguidas por un sustantivo, no un verbo (excepto en la forma de gerundio).
+
+### In / At / On - Las más comunes y se usan para indicar lugar o tiempo
+- IN
+Significado: en, dentro, dentro de
+Uso (lugar): Se usa para indicar tanto espacios cerrados como espacios abiertos. Lo utilizamos para indicar que algo está dentro de una cosa, en un lugar cerrado, o en el interior de algo físicamente.
+Uso (tiempo): Lo utilizamos con meses, años, épocas, partes del día y períodos de tiempo.
+- AT
+Significado: en, a, al, cerca de, tocando
+Uso (lugar): Se usa delante de edificios como casas, aeropuertos, universidades, para acontecimientos como reuniones, fiestas, conciertos, deportes, etc., antes de “top” (parte superior), “bottom” (parte inferior), “the end of” (al final de) y detrás de “arrive” (llegar) cuando nos referimos a lugares que no sean ciudades o países.
+Uso (tiempo): Lo utilizamos delante de la hora y de fiestas.
+- ON
+Significado: sobre, encima de algo, tocando
+Uso (lugar): Se coloca delante de nombres de lugares con base como mesas, suelos, etc., cuando nos referimos a partes de una habitación como el techo o la pared y para indicar que alguien está dentro de un transporte público o en una planta de un edificio.
+Uso (tiempo): Lo utilizamos con días de la semana, fechas y fiestas.
+#### —> PREPOSICIONES DE LUGAR ←—-
+
+Las preposiciones de lugar se colocan detrás del verbo principal, que suele ser el verbo “to be” 
+- Next to -  Beside - By(Cuando algo está cerca): Para indicar que algo está al lado de.
+- Between: Entre
+- Behind: Detrás de 
+- In front of: En frente de, opuesto, delante de
+- Under: Debajo
+- Above: Por encima sin tocar.
+-Below: Por debajo sin tocar.
+
+##### PREPOSICIONES DE TIEMPO←—-
+- Before: Antes
+- After: Después
+- During: Durante
+-  For: Durante, por.
+
+
+###### PREPOSICIONES DE MOVIMIENTO ←—------
+Las preposiciones de movimiento o dirección se utilizan para mostrar movimiento de un lugar a otro.
+- Under: Dentro
+- Across: Del otro lado
+- To: A, hacia
+- Along: A lo largo.
+- Around: Alrededor.
+- Down: Abajo
+- Into: Dentro de
+- Off: Más distante, más lejano.
+- Onto: Por encima de 
+- Over: Sobre
+- Past: Por delante
+- Through: Entre
+- Towards: Hacia
+- Up: Arriba
+
+

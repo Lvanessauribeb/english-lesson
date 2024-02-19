@@ -1,96 +1,103 @@
 # english-lesson
+
+## verb to be
+
+| Pronombre | Verbo To Be | Complemento |
+| :--------: | :--------: | :--------: |
+| I | Am | Vanessa |
+
 Activity: 
-- 1. My sister ___IS_____ beautiful
-- 2. My brother and I ____are in the basketball team 
-- 3. My cat ____IS_____ in the garden
-- 4. My friends ___ARE_____in the party 
-- 5. My teacher ____IS_____ very intelligent
-- 6. Thalía __IS___ a famous Mexican singer
-- 7. Hugo and Paco ___ARE___ brothers 
-- 8. The restaurant ____IS______closed
+1. My sister `___IS_____` beautiful
+2. My brother and I `____are___` in the basketball team 
+3. My cat `____IS_____` in the garden
+4. My friends `___ARE_____in the party 
+5. My teacher `____IS_____` very intelligent
+6. Thalía `__IS___` a famous Mexican singer
+7. Hugo and Paco `___ARE___` brothers 
+8. The restaurant `____IS______` closed
 
-Excepción: Usamos ARE para referirnos a 3cera persona en plural.
-Presentations. 
-Family member presentations.
+### Excepción: Usamos ARE para referirnos a 3cera persona en plural. Presentations. 
 
-AM (I), IS( SHE, HE, IT), ARE(WE,THEY, YOU)
+* Family member presentations.
 
-
-W -  Questions 
-https://www.youtube.com/watch?v=rQbmi96h9-4 
+> AM (I), IS( SHE, HE, IT), ARE(WE,THEY, YOU)
 
 
-AFIRMATIVA 
+- W -  [Questions](https://www.youtube.com/watch?v=rQbmi96h9-4) 
 
-PRONOMBRE + VERBO TO BE + COMPLEMENTO 
-       I                            AM                  VANESSA
 
-PRONOMBRES
+## AFIRMATIVA - PRONOMBRES
 
-I — AM   —----------------------------------------> 1RA PERSONA
-you + we + they + You: ARE —--------------> 2DA PERSONA
-It + he + she: IS —-----------------------------> 3RA PERSONA
+- I — AM   —----------------------------------------> 1RA PERSONA
+- you + we + they + You: ARE —--------------> 2DA PERSONA
+- It + he + she: IS —-----------------------------> 3RA PERSONA
 
-NEGATIVA 
+## NEGATIVA 
 
-PRONOMBRE + VERBO TO BE + NOT + COMPLEMENTO 
-        I                         AM                 NOT    VANESSA
+| Pronombre | Verbo To Be | Not | Complemento |
+| :--------: | :--------: | :--------: | :--------: |
+| I | Am | not | Vanessa |
 
-INTERROGATIVA
+## INTERROGATIVA
 
-VERBO TO BE + PRONOMBRE + COMPLEMENTO 
-         AM                        I                      VANESSA ?
+| Verbo To Be | Pronombre | Complemento |
+| :--------: | :--------: | :--------: |
+| Am | ---- | Vanessa |
 
-I am Xavier, I´m 35 years old, I´m from Peru, I am studying programmation full stack, I´m a respectful and friendly person. I like to play and watch football on the tv  and I like to listen to music. My favorite color is blue. My father´s name is Pedro, he likes to go to the gym, we are very joined, we have pets, his name are Celia and Tanos.
-PERSONAL PRONOUNS
+
+## Presentation
+
+> I am Xavier, I´m 35 years old, I´m from Peru, I am studying programmation full stack, I´m a respectful and friendly person. I like to play and watch football on the tv  and I like to listen to music. My favorite color is blue. My father´s name is Pedro, he likes to go to the gym, we are very joined, we have pets, his name are Celia and Tanos.
+
+## PERSONAL PRONOUNS
 
 En función del sujeto ( El sujeto recae sobre el verbo) : I, you, he, she, it, we, You, they.
 
 En función del objeto ( El verbo recae sobre el sujeto): 
-*Me: A mi  - I
+* Me: A mi  - I
 * You: A ti - You
-*Him:  A él - He
-*Her: A ella - She
-*it: A eso - It
-*Us: A nosotros - Our
-*You:  A ustedes - You
-*Them: A ellos. - Their
-Ej: - The fire is burning to me.
-I burning the fire
+* Him:  A él - He
+* Her: A ella - She
+* it: A eso - It
+* Us: A nosotros - Our
+* You:  A ustedes - You
+* Them: A ellos. - Their
+
+- Ej: - The fire is burning to me.
+- I burning the fire
 
 
-PRONOMBRES POSESIVOS (EN FUNCIÓN DE DETERMINANTE): My, your, his, her, its, our, your, their.
+## PRONOMBRES POSESIVOS (EN FUNCIÓN DE DETERMINANTE): My, your, his, her, its, our, your, their.
  
 Ej: My car is blue.
 
-MY CAR : Mi carro.
-Your car: Tu carro.
-Yours cars: Sus carros.
-His car: Su carro (De él)
-Her car: Su carro (De ella)
-Its name: Su nombre (De eso)
-Our cars: Nuestros carros. 
-Their car: Su carro ( De ellos)
+- MY CAR : Mi carro.
+- Your car: Tu carro.
+- Yours cars: Sus carros.
+- His car: Su carro (De él)
+- Her car: Su carro (De ella)
+- Its name: Su nombre (De eso)
+- Our cars: Nuestros carros. 
+- Their car: Su carro ( De ellos)
 
 
+## PRONOMBRES POSESIVOS (EN FUNCIÓN DE PRONOMBRE):
 
-PRONOMBRES POSESIVOS (EN FUNCIÓN DE PRONOMBRE):
+Funciona como un pronombre en función de complemento directo. Siempre va al final de la oración.
 
- Funciona como un pronombre en función de complemento directo. Siempre va al final de la oración.
+1. Mine: Mio
+1. Yours: Tuyo
+1. His: Suyo
+1. Hers: Suyo
+1. Its: Su
+1. Ours: Nuestro
+1. Yours: Suyo 
+1. Theirs: Suyos de ellos
 
-Mine: Mio
-Yours: Tuyo
-His: Suyo
-Hers: Suyo
-Its: Su
-Ours: Nuestro
-Yours: Suyo 
-Theirs: Suyos de ellos
-
-Ej: The blue car is mine. 
+- Ej: The blue car is mine. 
 
 
-PRONOMBRES DEMOSTRATIVOS.
+## PRONOMBRES DEMOSTRATIVOS.
  
 SINGULAR ( Distancia)
 *THIS: Este (esta - esto) - Algo está cerca
